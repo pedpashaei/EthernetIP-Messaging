@@ -1,0 +1,12 @@
+C:\Udemy_Coursework\ExplicitMessaging01\bin\Debug\ExplicitMessaging01.exe.config
+C:\Udemy_Coursework\ExplicitMessaging01\bin\Debug\ExplicitMessaging01.exe
+C:\Udemy_Coursework\ExplicitMessaging01\bin\Debug\ExplicitMessaging01.pdb
+C:\Udemy_Coursework\ExplicitMessaging01\bin\Debug\EEIP.dll
+C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csprojAssemblyReference.cache
+C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.Form1.resources
+C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.Properties.Resources.resources
+C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.GenerateResource.cache
+C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.CoreCompileInputs.cache
+C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.CopyComplete
+C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.exe
+C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.pdb

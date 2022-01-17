@@ -10,9 +10,6 @@ The C# app acts as the client which gets explicit data from the remote server. I
 [EEIP.NET library](https://sourceforge.net/projects/eeip-net/).
 
 
-![diagram!] (ethernetIP.png)
 
 
-
-
-
+![ethernetIP](https://user-images.githubusercontent.com/80297807/149717877-202d3039-b772-43fd-8c71-13520ea20206.png)

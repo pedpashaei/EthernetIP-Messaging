@@ -10,3 +10,15 @@ C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.Cor
 C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.CopyComplete
 C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.exe
 C:\Udemy_Coursework\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.pdb
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\bin\Debug\ExplicitMessaging01.exe.config
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\bin\Debug\ExplicitMessaging01.exe
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\bin\Debug\ExplicitMessaging01.pdb
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.AssemblyReference.cache
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.SuggestedBindingRedirects.cache
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.Form1.resources
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.Properties.Resources.resources
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.GenerateResource.cache
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.CoreCompileInputs.cache
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.csproj.CopyComplete
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.exe
+F:\Self Learn\Ethernet\ExplicitMessaging01\ExplicitMessaging01\obj\Debug\ExplicitMessaging01.pdb
